@@ -67,14 +67,10 @@ Many individuals lack professional dermatological resources, making it challengi
 - Robust skin type classification
 - Comprehensive validation test
 
-## Team Members
+## Machine Learning Team Members
 - **Jeremy Kevin Panggabean** - UPN Veteran Jakarta
 - **Merrychmas Duete Tumayel** - STMK Bandung
 - **Salsabila Kholidah** - ITS Surabaya
-- **Fanadillah Ilham Pranata Adi** - Universitas Gunadarma
-- **Tofa Fahrul Rozi** - Universitas Gunadarma
-- **Calvin Nurafid Herdyanto** - Universitas Gunadarma
-- **M. Iqbal Khalakas** - STMIK Amik Riau
 
 ## Ethical Considerations
 - Prioritized user privacy
